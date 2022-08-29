@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/bombeiro-semana/static/css/main.e6c13ad2.css",
+    "main.js": "/bombeiro-semana/static/js/main.0972cd8f.js",
+    "static/js/787.f725e332.chunk.js": "/bombeiro-semana/static/js/787.f725e332.chunk.js",
+    "static/media/teams.png": "/bombeiro-semana/static/media/teams.1d4699a53da4bfb153b0.png",
+    "static/media/bombeiro.svg": "/bombeiro-semana/static/media/bombeiro.2c6a78c4d488c5765a93f2e52c69cfac.svg",
+    "static/media/fogo.svg": "/bombeiro-semana/static/media/fogo.102f5cc9c14d7511ce485bd86b6087c1.svg",
+    "index.html": "/bombeiro-semana/index.html",
+    "main.e6c13ad2.css.map": "/bombeiro-semana/static/css/main.e6c13ad2.css.map",
+    "main.0972cd8f.js.map": "/bombeiro-semana/static/js/main.0972cd8f.js.map",
+    "787.f725e332.chunk.js.map": "/bombeiro-semana/static/js/787.f725e332.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0972cd8f.js"
+  ]
+}
